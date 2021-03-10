@@ -1,0 +1,125 @@
+[
+    {
+        "tenantId": 1,
+        "rooms": [
+            {
+                "roomId": 1,
+                "name": "LivingRoom",
+                "devices": [
+                    {
+                        "deviceId": 1,
+                        "name": "Ally LivingRoom one"
+                    },
+                    {
+                        "deviceId": 2,
+                        "name": "Ally LivingRoom two"
+                    },
+                    {
+                        "deviceId": 3,
+                        "name": "Ally LivingRoom three"
+                    },
+                    {
+                        "deviceId": 4,
+                        "name": "Ally LivingRoom four"
+                    },
+                ]
+            },
+            {
+                "roomId": 2,
+                "name": "DiningRoom",
+                "devices": [
+                    {
+                        "deviceId": 5,
+                        "name": "Ally DiningRoom one"
+                    },
+                    {
+                        "deviceId": 6,
+                        "name": "Ally DiningRoom two"
+                    },
+                    {
+                        "deviceId": 7,
+                        "name": "Ally DiningRoom three"
+                    },
+                    {
+                        "deviceId": 8,
+                        "name": "Ally DiningRoom four"
+                    },
+                ]
+            }
+        ]
+    },
+    {
+        "tenantId": 2,
+        "rooms": [
+            {
+                "roomId": 3,
+                "name": "Kitchen",
+                "devices": [
+                    {
+                        "deviceId": 10,
+                        "name": "Ally kitchen one"
+                    },
+                    {
+                        "deviceId": 11,
+                        "name": "Ally kitchen two"
+                    },
+                    {
+                        "deviceId": 12,
+                        "name": "Ally kitchen three"
+                    }
+                ]
+            },
+            {
+                "roomId": 4,
+                "name": "Hallway",
+                "devices": [
+                    {
+                        "deviceId": 13,
+                        "name": "Ally Hallway one"
+                    },
+                    {
+                        "deviceId": 14,
+                        "name": "Ally Hallway two"
+                    },
+                    {
+                        "deviceId": 15,
+                        "name": "Ally Hallway three"
+                    },
+                    {
+                        "deviceId": 16,
+                        "name": "Ally Hallway four"
+                    },
+                ]
+            }
+        ]
+    },
+    {
+        "tenantId": 3,
+        "rooms": [
+            {
+                "roomId": 20,
+                "name": "Kidsroom",
+                "devices": [
+                    {
+                        "deviceId": 1,
+                        "name": "Ally Kidsroom one"
+                    }
+                ]
+            },
+            {
+                "roomId": 21,
+                "name": "Bedroom",
+                "devices": [
+                    {
+                        "deviceId": 22,
+                        "name": "Ally Bedroom one"
+                    },
+                    {
+                        "deviceId": 23,
+                        "name": "Ally Bedroom two"
+                    }
+                ]
+            }
+        ]
+    }
+]
