@@ -5,7 +5,7 @@
             {
                 "roomId": 1,
                 "name": "LivingRoom",
-                "devices": [
+                "children": [
                     {
                         "deviceId": 1,
                         "name": "Ally LivingRoom one"
@@ -27,7 +27,7 @@
             {
                 "roomId": 2,
                 "name": "DiningRoom",
-                "devices": [
+                "children": [
                     {
                         "deviceId": 5,
                         "name": "Ally DiningRoom one"
@@ -54,7 +54,7 @@
             {
                 "roomId": 3,
                 "name": "Kitchen",
-                "devices": [
+                "children": [
                     {
                         "deviceId": 10,
                         "name": "Ally kitchen one"
@@ -72,7 +72,7 @@
             {
                 "roomId": 4,
                 "name": "Hallway",
-                "devices": [
+                "children": [
                     {
                         "deviceId": 13,
                         "name": "Ally Hallway one"
@@ -99,7 +99,7 @@
             {
                 "roomId": 20,
                 "name": "Kidsroom",
-                "devices": [
+                "children": [
                     {
                         "deviceId": 1,
                         "name": "Ally Kidsroom one"
@@ -109,7 +109,7 @@
             {
                 "roomId": 21,
                 "name": "Bedroom",
-                "devices": [
+                "children": [
                     {
                         "deviceId": 22,
                         "name": "Ally Bedroom one"
